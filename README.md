@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/SeanCLynch/community/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In the face of social and political changes, citizens in a democracy must have a place for healthy and constructive dicussion. Our [third places] used to fill this role and our virtual places were supposed to replace them. Despite their shortcomings, the desire for civic engagement remains strong and our hope lies in our Community. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Features
 
-### Markdown
+- Echo-less information
+- Local awareness
+- Civic moderation
+- Ending September
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Involvement
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SeanCLynch/community/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Interested? Hear about major announcements
+- Curious? Send us an email.
+- Excited? Ask for access.
