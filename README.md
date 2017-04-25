@@ -1,6 +1,6 @@
 ## Welcome!
 
-In the face of social and political changes, citizens in a democracy must have a place for healthy and constructive dicussion. Our [third places] used to fill this role and our virtual places were supposed to replace them. Despite their shortcomings, the desire for civic engagement remains strong and our hope lies in our Community. 
+Now more than ever, citizens in a democracy must have a place for healthy and constructive discussion. Our [third places](https://en.wikipedia.org/wiki/Third_place) used to fill this role and our virtual places were supposed to replace them. Despite their shortcomings, the desire for civic engagement remains strong and our hope lies in our Community. 
 
 ### Features
 
@@ -11,6 +11,7 @@ In the face of social and political changes, citizens in a democracy must have a
 
 ### Involvement
 
-- Interested? Hear about major announcements
-- Curious? Send us an email.
-- Excited? Ask for access.
+- Interested? Get only major announcements [here](https://tinyletter.com/communitypub).
+- Curious? [Let us know](https://seanclynch.typeform.com/to/FJflbb) what you think.
+- Excited? Contribute [here](https://github.com/SeanCLynch/community).
+
